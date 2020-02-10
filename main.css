@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2:100|Italianno|Yantramanav:300&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+#clock {
+  font-size: 9rem;
+  font-family: 'Italianno', sans-serif;
+  text-align: center;
+  color: #fff;
+}
